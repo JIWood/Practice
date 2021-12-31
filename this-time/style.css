@@ -1,0 +1,16 @@
+body {
+background-color: #313842;
+}
+
+h1, .resume-links, .resume-links a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 72px;
+    line-height:89%;
+    color: #E2E2E2;
+    /* text-decoration:none; */
+}
+
+.resume-links {
+    margin:0;
+    position: right;
+}
